@@ -1,0 +1,73 @@
+{
+  "common": {
+    "categories": "Catégories",
+    "search": "Rechercher un cours, une formation...",
+    "login": "Se connecter",
+    "signup": "S'inscrire",
+    "myLearning": "Mes apprentissages",
+    "wishlist": "Liste de souhaits",
+    "cart": "Panier",
+    "notifications": "Notifications",
+    "teach": "Enseigner sur CSL",
+    "business": "CSL Business",
+    "chooseLanguage": "Choisir une langue",
+    "searchLanguage": "Rechercher une langue",
+    "currentLanguage": "Langue actuelle",
+    "loading": "Chargement...",
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "viewAllLearning": "Voir tous mes apprentissages",
+    "emptyWishlist": "Votre liste de souhaits est vide",
+    "emptyCart": "Votre panier est vide",
+    "exploreCourses": "Explorer les cours",
+    "startShopping": "Commencer les achats",
+    "businessDescription": "Donnez à votre équipe l'accès à plus de 22 000 cours",
+    "tryBusiness": "Essayer CSL Business",
+    "teachDescription": "Transformez vos connaissances en opportunité et atteignez des millions de personnes",
+    "startTeaching": "Commencer à enseigner"
+  },
+  "profile": {
+    "title": "Profil public",
+    "addInfo": "Ajoutez des informations vous concernant",
+    "basicInfo": "Informations de base",
+    "firstName": "Prénom",
+    "lastName": "Nom",
+    "headline": "Titre professionnel",
+    "bio": "Bio",
+    "links": "Liens",
+    "headlinePlaceholder": "Exemple: \"Instructeur CSL\" ou \"Architecte\"",
+    "bioWarning": "Les liens et codes promo ne sont pas autorisés dans cette section.",
+    "socialPlaceholder": "Votre profil {{platform}}",
+    "language": "Langue"
+  },
+  "editor": {
+    "bold": "Gras",
+    "italic": "Italique",
+    "underline": "Souligné"
+  },
+  "languages": {
+    "en": "Anglais (États-Unis)",
+    "fr": "Français (France)"
+  },
+  "security": {
+    "changePassword": "Changer le mot de passe",
+    "twoFactor": "Authentification à deux facteurs",
+    "twoFactorDescription": "Renforcez la sécurité de votre compte en exigeant qu'un code vous soit envoyé par email lors de la connexion.",
+    "helpCenter": "Article du Centre d'aide",
+    "enable": "Activer",
+    "comingSoon": "(Bientôt disponible)"
+  },
+  "footer": {
+    "locations": {
+      "cameroon": {
+        "title": "CSL AU CAMEROUN",
+        "address": "DOUALA : Ndogbong derrière CAMLAIT (Cameroun)"
+      },
+      "congo": {
+        "title": "CSL EN REP. DU CONGO",
+        "address": "République du CONGO, Immeuble Intérim 2000"
+      }
+    },
+    "copyright": "© {{year}} CSL. Tous droits réservés. Site créé par Okenly Solutions."
+  }
+}

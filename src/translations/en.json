@@ -1,0 +1,73 @@
+{
+  "common": {
+    "categories": "Categories",
+    "search": "Search for anything",
+    "login": "Log in",
+    "signup": "Sign up",
+    "myLearning": "My learning",
+    "wishlist": "Wishlist",
+    "cart": "Cart",
+    "notifications": "Notifications",
+    "teach": "Teach on CSL",
+    "business": "CSL Business",
+    "chooseLanguage": "Choose a language",
+    "searchLanguage": "Search for a language",
+    "currentLanguage": "Current language",
+    "loading": "Loading...",
+    "save": "Save",
+    "cancel": "Cancel",
+    "viewAllLearning": "View all your learning",
+    "emptyWishlist": "Your wishlist is empty",
+    "emptyCart": "Your cart is empty",
+    "exploreCourses": "Explore courses",
+    "startShopping": "Start shopping",
+    "businessDescription": "Get your team access to over 22,000 top courses",
+    "tryBusiness": "Try CSL Business",
+    "teachDescription": "Turn what you know into an opportunity and reach millions around the world",
+    "startTeaching": "Start teaching today"
+  },
+  "profile": {
+    "title": "Public Profile",
+    "addInfo": "Add information about yourself",
+    "basicInfo": "Basic Information",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "headline": "Professional Title",
+    "bio": "Bio",
+    "links": "Links",
+    "headlinePlaceholder": "E.g. \"CSL Instructor\" or \"Architect\"",
+    "bioWarning": "Links and promo codes are not allowed in this section.",
+    "socialPlaceholder": "Your {{platform}} profile",
+    "language": "Language"
+  },
+  "editor": {
+    "bold": "Bold",
+    "italic": "Italic",
+    "underline": "Underline"
+  },
+  "languages": {
+    "en": "English (US)",
+    "fr": "French (France)"
+  },
+  "security": {
+    "changePassword": "Change Password",
+    "twoFactor": "Two-Factor Authentication",
+    "twoFactorDescription": "Enhance your account security by requiring an email code when logging in.",
+    "helpCenter": "Help Center article",
+    "enable": "Enable",
+    "comingSoon": "(Coming Soon)"
+  },
+  "footer": {
+    "locations": {
+      "cameroon": {
+        "title": "CSL IN CAMEROON",
+        "address": "DOUALA: Ndogbong behind CAMLAIT (Cameroon)"
+      },
+      "congo": {
+        "title": "CSL IN REP. OF CONGO",
+        "address": "Republic of CONGO, Interim Building 2000"
+      }
+    },
+    "copyright": "© {{year}} CSL. All rights reserved. Site created by Okenly Solutions."
+  }
+}
